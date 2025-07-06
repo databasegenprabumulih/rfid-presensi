@@ -1,0 +1,8 @@
+{
+  "name": "Presensi Generus",
+  "short_name": "Presensi",
+  "start_url": "form_presensi.php",
+  "display": "standalone",
+  "background_color": "#f0f8ff",
+  "theme_color": "#11698e"
+}
